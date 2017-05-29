@@ -749,12 +749,12 @@
                                     Crafty.e("Octicons, Pickup, Corvette, Tween, Delay").attr({
                                         x: this.x + (this.w - 48) / 2,
                                         y: this.y - 64
-                                    }).css('textShadow', '0px 0px 8px rgba(0,0,0,.5), -1px -1px 0 #888,1px -1px 0 #888,-1px 1px 0 #888,1px 1px 0 #888').text("&#xF220");
+                                    }).css('textShadow', '0px 0px 8px rgba(0,0,0,.5), -1px -1px 0 #ff0,1px -1px 0 #ff0,-1px 1px 0 #ff0,1px 1px 0 #ff0').text("&#xF220");
                                 } else if(0 === n % 2) {
                                     Crafty.e("Octicons, Pickup, Star, Tween, Delay").attr({
                                         x: this.x + (this.w - 48) / 2,
                                         y: this.y - 64
-                                    }).css('textShadow', '0px 0px 8px rgba(0,0,0,.5), -1px -1px 0 #fc0,1px -1px 0 #fc0,-1px 1px 0 #fc0,1px 1px 0 #fc0').css("color", "#FF8").text("&#xF22A"); // star
+                                    }).css('textShadow', '0px 0px 8px rgba(0,0,0,.5), -1px -1px 0 #fc0,1px -1px 0 #fc0,-1px 1px 0 #fc0,1px 1px 0 #fc0').css("color", "#fc0").text("&#xF22A"); // star
                                 }
                                 this.trigger("Recycled");
                             }
