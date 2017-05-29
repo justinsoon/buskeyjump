@@ -3,9 +3,6 @@ Buskey Jump
 
 Playable on the [gh-pages branch](http://justinsoon.github.io/buskeyjump)
 
-<img src="http://i.imgur.com/rCRrx.png" style="border:0;">
-<img src="http://i.imgur.com/QOGtr.png" style="border:0;">
-
 About
 -----
 A Doodle Jump clone for AP Comp Sci.
