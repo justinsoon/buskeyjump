@@ -140,8 +140,8 @@
             _enabled: true,
             ACCEL: 2,
             MAX_SPEED: 5,
-            JUMP_HEIGHT: 22,
-            PUSH_HEIGHT: 32,
+            JUMP_HEIGHT: 30,
+            PUSH_HEIGHT: 45,
 
             init: function () {
                 this.requires("2D, Keyboard");
