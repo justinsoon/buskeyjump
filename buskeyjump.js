@@ -999,7 +999,7 @@
                             y: (640 - 120) / 2,
                             alpha: 0
                         // }).image(R._PNG).tween({
-                        }).image('assets/images/justkev.png').justkevtween({
+                        }).image('assets/images/justkev.png').tween({
                             alpha: 1
                         }, 50).bind("TweenEnd", function () {
                             this.unbind("TweenEnd");
