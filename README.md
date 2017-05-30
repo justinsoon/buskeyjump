@@ -8,8 +8,8 @@ About
 A Doodle Jump clone for AP Comp Sci.
 
 Use the arrow keys to navigate your ever-jumping Buskey and collect Dr. Pepper for extra points.
-Push higher with the green platforms, watch out from the red, they'll be pulled from under you.
-Forks will teleport you around 100 lines of code further.
+Push higher with the maroon platforms, watch out from the purple, they'll be pulled from under you.
+Yellow Rectangles will teleport you around 100 levels further.
 
 
 Technicals
