@@ -916,7 +916,7 @@
             //     // }, 50);
             // });
             var images = [];
-            images = images.concat("title.png", "JustKev_logo.png", "dev.png");
+            images = images.concat("title.png", "justkev.png", "dev.png");
             images = images.concat("bg.png", "buskey.png", "portal.png", "smoke_jump.png", "speaker.png", "mute.png");
 
             Crafty.load(images.map(imgPath), function onLoad() {
@@ -998,8 +998,8 @@
                             x: (400 - 147) / 2,
                             y: (640 - 120) / 2,
                             alpha: 0
-                        // }).image(R.JustKev_LOGO_PNG).tween({
-                        }).image('assets/images/JustKev_logo.png').tween({
+                        // }).image(R._PNG).tween({
+                        }).image('assets/images/justkev.png').justkevtween({
                             alpha: 1
                         }, 50).bind("TweenEnd", function () {
                             this.unbind("TweenEnd");
